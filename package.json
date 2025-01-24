@@ -15,6 +15,7 @@
     "astro": "^2.0.0"
   },
   "dependencies": {
+    "@netlify/edge-functions": "^2.11.1",
     "netlify-cli": "^18.0.2"
   }
 }
